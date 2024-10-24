@@ -1,5 +1,5 @@
 # Walmart Retail Sales Data Analysis
-
+**Google sheet link** : https://docs.google.com/spreadsheets/d/16EwD-2rSrgRK31sfhIl2F-dTAIEVULsnqgOnJTTTEDg/edit?usp=sharing
 ## Overview
 This project analyzes Walmart's retail sales data to gain insights into performance across various regions, customer segments, and products. Using SQL and visualization tools like Excel or Google Sheets, the analysis identifies trends, top-selling products, and areas for improvement. A detailed dashboard visualizes key metrics for data-driven decision-making.
 
